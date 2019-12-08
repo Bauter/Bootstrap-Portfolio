@@ -64,7 +64,12 @@ h2 {
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 20px;
-    margin: auto;
+    margin-left: 100px;
+    margin-bottom: 0px;
+}
+
+#contact-link {
+    margin-right: 100px;
 }
 
 #p2 {

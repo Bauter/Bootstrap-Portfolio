@@ -219,7 +219,7 @@ h2 {
     margin-top: 20px;
 }
 
-img {
+.img {
     margin-top:5px;
 }
 
@@ -275,4 +275,24 @@ img {
 .container-fluid { 
     padding-right: 0% !important; 
     padding-left: 0% !important;
+}
+
+.figure {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.figure-img {
+    height:200px !important;
+}
+
+.figure-caption {
+    width:200px;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 5px;
+    position: relative;
+    top: -40px;
+    
 }
